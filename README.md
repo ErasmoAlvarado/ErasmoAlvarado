@@ -1,41 +1,11 @@
- Hello, I'm Payam Khaninejad! 
+# Hi, I'm Erasmo Alvarado👋🧑‍💻
 
+![](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176677_960_720.jpg)
 
-Developer at Coinhaven
+I'm a young developer who is passionate about making producto that help people, make a better sociaty and code alot. Some technologies I enjoy working with include Flutter,Django,ReactJS. I love to contribute to the tech community and help everybody. My interest in the Flutter and Python ecosystem :)
 
-Twitter Follow Linkedin: khaninejad GitHub followers 
+# Details about me🌎:
 
-mailbox Like to meet me?
-point_down Hit in your console or terminal to connect with me or have an offline interview with my AI assistant. robot
-
-npx payam
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-meet_link
-
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Nodejs", "Typescript", "C#", "Swift", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "mobile dev"],
-    description: "This is Payam Khaninejad, the developer with a backend, full-stack, a little bit DevOps but definitely not a front-end",
-    technologies: {
-        backEnd: {
-            native: ["Nodejs", "Typescript", "C#", "PHP", "Python"],
-        },
-        fullStack: {
-            js: ["Reactjs", "Javascript", "HTML5", "CSS"],
-        },
-        mobileApp: {
-            native: ["IOS Development"]
-        },
-        devOps: ["Docker🐳", "kubernetes"],
-        databases: ["MySql", "MSSQL", "Postgress", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Microservices",
-    funFact: "There are two ways to write error-free programs; only the third one works",
-    futurePlan: "ML"
-    
-};
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+- I from Venezuela 🇻🇪
+- I Always trying to learn new things 📖
+- You can find me  [Linkedin](https://www.linkedin.com/ "link")
