@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ErasmoAlvarado
+- 🌱 I’m currently learning Dart and Python ...
+- 💞️ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) ...
+- 📫 How to reach me email...
+
+<!---
+ErasmoAlvarado/ErasmoAlvarado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
